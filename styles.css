@@ -1,0 +1,145 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+  font-family:  Trebuchet, Verdana, sans-serif !important;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 24px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.navbar-header {
+  background-color: #4E89C7;
+  color: #fff;
+}
+
+#myNavbar {
+  background-color: #4E89C7;
+  border-bottom: 1px solid #4E88C7;
+}
+
+.navbar-brand img {
+  width: 75px;
+  height: 45px;
+  position: absolute;
+  top: 2px;
+}
+
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+
+.nav-pills {
+  padding-right: 10px;
+}
+
+.nav-pills li a {
+  margin-top: 8px;
+  padding-top: 6px;
+  padding-bottom: 4px;
+  background-color: #4E88C7;
+  border-radius: 0px;
+  color: #001617;
+}
+
+.nav-pills li.active a,
+.nav-pills li.active:hover a
+{
+  background-color: #e7e7e7;
+  color: #001617;
+}
+
+.nav-pills li:hover a {
+  background-color: #4E88C7;
+  box-shadow: 1px 5px 15px rgba(0,0,0,0.4);
+}
+
+#section1 {
+  border-radius: 10px;
+  border: 3px solid #C40063;
+  color: #C40063;
+  width: 85%;
+  margin: 0px auto;
+  padding-top: 0px;
+  margin-bottom: -20px;
+}
+
+h2.box-top {
+  color: #fff;
+  background-color: #C40063;
+  margin-top: 0px;
+  padding-top: 2px;
+  padding-bottom: 8px;
+  font-size: 28px;
+}
+
+#section1 p {
+  padding: 20px;
+}
+
+#section2 {
+  border-radius: 10px;
+  border: 3px solid #4E88C7;
+  color: #4E88C7;
+  width: 85%;
+  margin: 0px auto;
+  padding-bottom: 20px;
+}
+
+#section2 h2 {
+  padding-bottom: 30px;
+  text-align:  center;
+  color: #fff;
+  background-color: #4E88C7;
+  margin-top: 0px;
+  padding-bottom: 6px;
+}
+
+#section2 p {
+  padding: 0px 30px;
+  padding-top: 20px;
+}
+
+#section2 a {
+  color: #C40063;
+}
+
+#section2 .pink {
+  color: #C40063;
+}
+
+#section3 {
+  border-radius: 10px;
+  border: 3px solid #C40063;
+  color: #C40063;
+  margin-bottom: 50px;
+  width: 85%;
+  margin: 0px auto;
+  padding-bottom: 20px;
+}
+
+#section3 h2 {
+  margin-bottom: 50px;
+}
+
+#section3 .form {
+  margin-bottom: 40px;
+  padding: 0 45px;
+}
+
+#section3 p {
+  padding: 0 30px;
+}
+
+.top-spacer{
+  height: 80px;
+}
+
+.spacer {
+  height: 60px;
+}
