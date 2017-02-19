@@ -100,7 +100,7 @@ h2.box-top {
   padding-bottom: 6px;
 }
 
-#section2 p {
+#section2 .row {
   padding: 0px 30px;
   padding-top: 20px;
 }
@@ -113,26 +113,71 @@ h2.box-top {
   color: #C40063;
 }
 
+#section2 img {
+  height: 200px;
+  width: 200px;
+}
+
+#section2 p {
+  padding: 0px 30px;
+  padding-top: 20px;
+}
+
 #section3 {
   border-radius: 10px;
   border: 3px solid #C40063;
   color: #C40063;
-  margin-bottom: 50px;
   width: 85%;
   margin: 0px auto;
   padding-bottom: 20px;
 }
 
 #section3 h2 {
+  padding-bottom: 30px;
+  text-align:  center;
+  color: #fff;
+  background-color: #C40063;
+  margin-top: 0px;
+  padding-bottom: 6px;
+}
+
+#section3 p {
+  padding: 0px 30px;
+  padding-top: 20px;
+}
+
+#section3 a {
+  color: #4E88C7;
+}
+
+#section3 .pink {
+  color: #4E88C7;
+}
+
+#section4 {
+  border-radius: 10px;
+  border: 3px solid #4E88C7;
+  color: #4E88C7;
+  margin-bottom: 50px;
+  width: 85%;
+  margin: 0px auto;
+  padding-bottom: 20px;
+}
+
+#section4 h2 {
+  text-align:  center;
+  color: #fff;
+  background-color: #4E88C7;
+  margin-top: 0px;
   margin-bottom: 50px;
 }
 
-#section3 .form {
+#section4 .form {
   margin-bottom: 40px;
   padding: 0 45px;
 }
 
-#section3 p {
+#section4 p {
   padding: 0 30px;
 }
 
