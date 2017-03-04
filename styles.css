@@ -13,6 +13,18 @@ body {
   position: relative;
 }
 
+h3 {
+  font-size: 20px;
+}
+
+.pink {
+  color: #C40063;
+}
+
+.blue {
+  color: #4E89C7;
+}
+
 .navbar-header {
   background-color: #4E89C7;
   color: #fff;
@@ -109,13 +121,10 @@ h2.box-top {
   color: #C40063;
 }
 
-#section2 .pink {
-  color: #C40063;
-}
-
 #section2 img {
   height: 200px;
   width: 200px;
+  padding-bottom: 10px;
 }
 
 #section2 p {
