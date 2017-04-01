@@ -121,15 +121,13 @@ h2.box-top {
   color: #C40063;
 }
 
-#section2 img {
-  height: 200px;
-  width: 200px;
-  padding-bottom: 10px;
-}
-
 #section2 p {
   padding: 0px 30px;
   padding-top: 20px;
+}
+
+#section2 img {
+  margin: 0px auto;
 }
 
 #section3 {
@@ -161,6 +159,13 @@ h2.box-top {
 
 #section3 .pink {
   color: #4E88C7;
+}
+
+#section3 img {
+  height: 200px;
+  width: 200px;
+  padding-bottom: 10px;
+  margin: 0px auto;
 }
 
 #section4 {
