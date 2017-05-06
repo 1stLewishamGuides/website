@@ -75,7 +75,7 @@ h3 {
   border-radius: 10px;
   border: 3px solid #C40063;
   color: #C40063;
-  width: 85%;
+  width: 95%;
   margin: 0px auto;
   padding-top: 0px;
   margin-bottom: -20px;
@@ -98,7 +98,7 @@ h2.box-top {
   border-radius: 10px;
   border: 3px solid #4E88C7;
   color: #4E88C7;
-  width: 85%;
+  width: 95%;
   margin: 0px auto;
   padding-bottom: 20px;
 }
@@ -134,7 +134,7 @@ h2.box-top {
   border-radius: 10px;
   border: 3px solid #C40063;
   color: #C40063;
-  width: 85%;
+  width: 95%;
   margin: 0px auto;
   padding-bottom: 20px;
 }
@@ -173,7 +173,7 @@ h2.box-top {
   border: 3px solid #4E88C7;
   color: #4E88C7;
   margin-bottom: 50px;
-  width: 85%;
+  width: 95%;
   margin: 0px auto;
   padding-bottom: 20px;
 }
@@ -193,6 +193,10 @@ h2.box-top {
 
 #section4 p {
   padding: 0 30px;
+}
+
+#section4 strong {
+  word-wrap: break-word;
 }
 
 .top-spacer{
